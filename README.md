@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/georgearun1585/Threat-hunting-scenario-tor/tree/main)**
 
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7244baea-1238-4850-adc7-e3afca58c6ff" />
+## <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/7244baea-1238-4850-adc7-e3afca58c6ff" />
  Brute Force Detection & Incident Response | Microsoft Sentinel + MDE
 
 <hr/>
