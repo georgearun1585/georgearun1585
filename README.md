@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## <img width="50" height="52" alt="IR thumbnail" src="https://github.com/user-attachments/assets/001b0409-2097-4323-9f95-53a6678cbaa2" /> Incident Response | Microsoft Sentinel + MDE
 
- 
+ https://github.com/georgearun1585/Brute-Force-Detection-Incident-Response-Microsoft-Sentinel-MDE-
 
 <hr/>
 
