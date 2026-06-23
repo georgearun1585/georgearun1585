@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/georgearun1585/Threat-hunting-scenario-tor/tree/main)**
+- **[Threat Hunting Scenario (Second Vector BEC)](https://github.com/georgearun1585/Threat-Hunting-Scenario---Second-Vector-BEC-Power-Automate-Abuse-and-Conditional-Access-Bypass-)**
 
 ## <img width="50" height="52" alt="IR thumbnail" src="https://github.com/user-attachments/assets/001b0409-2097-4323-9f95-53a6678cbaa2" /> Incident Response | Microsoft Sentinel + MDE
 
