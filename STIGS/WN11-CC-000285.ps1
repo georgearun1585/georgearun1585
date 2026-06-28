@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that Windows 11 systems must use a BitLocker PIN with a minimum length of six digits for pre-boot authentication.
+    This PowerShell script ensures that The Remote Desktop Session Host must require secure RPC communications.
 
 .NOTES
     Author          : Arun George
