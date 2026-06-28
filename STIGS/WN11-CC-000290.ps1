@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that Windows 11 systems must use a BitLocker PIN with a minimum length of six digits for pre-boot authentication.
+    This PowerShell script ensures thatRemote Desktop Services must be configured with the client connection encryption set to the required level.
 
 .NOTES
     Author          : Arun George
