@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures thatRemote Desktop Services must be configured with the client connection encryption set to the required level.
+    This PowerShell script ensures that Remote Desktop Services must be configured with the client connection encryption set to the required level.
 
 .NOTES
     Author          : Arun George
